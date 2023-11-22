@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 line added by main
 
 THis is my super awesome login implementation
 
 line added by main
+=======
+
+loginfeature addition
+THis is my super awesome login implementation
+>>>>>>> loginfeature
